@@ -1,0 +1,34 @@
+[
+      {
+         "Game":[],
+      "nombre":"Xbox One",
+      "descripcion":"Xbox One is a line of eighth generation home video game consoles developed by Microsoft. Announced in May 2013, it is the successor to Xbox 360 and the third console in the Xbox family. It was first released in North America, parts of Europe, Australia, and South America in November 2013, and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the Shanghai Free-Trade Zone.",
+      "caracteristicas":"Texto y listado de las características de la consola Xbox One...",
+      "imagen":"https://icdn3.digitaltrends.com/image/xbox-6.jpg?ver=1",
+      "__v":0
+   },
+   {
+      "Game":[],
+      "nombre":"Play Station 4",
+      "descripcion":"Game para Play Station 4",
+      "caracteristicas":"Texto y listado de las características de la consola Play Station 4...",
+      "imagen":"https://www.gamepur.com/files/images/2016/ps4-shipped-82-million.jpg",
+      "__v":0
+   },
+   {
+      "Game":[],
+      "nombre":"Nintendo Switch",
+      "descripcion":"Game para Nintendo Switch",
+      "caracteristicas":"Texto y listado de las características de la consola Nintendo Switch...",
+      "imagen":"https://www.nintendoenthusiast.com/wp-content/uploads/2017/09/Switch-Above-Wii.jpg",
+      "__v":0
+   },
+   {
+      "Game":[],
+      "nombre":"PC",
+      "descripcion":"Game para PC",
+      "caracteristicas":"Texto y listado de las características de la consola PC...",
+      "imagen":"https://static1.squarespace.com/static/57ccaa21b8a79b71bbf87af5/t/5c33c37ff950b74c4dbe897c/1546896258412/1901_ces_razerraptor_vsavov1.jpg",
+      "__v":0
+   }
+]

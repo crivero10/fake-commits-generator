@@ -1,5 +1,5 @@
 days=200
-total_commit=600
+total_commit=20
 size=$((days*24*60))
 a=$(shuf -i 1-$size -n $total_commit | sort -r -n)
 git checkout -b gh-pages
